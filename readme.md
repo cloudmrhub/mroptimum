@@ -3,7 +3,7 @@
 # MR Optimum
 
 **MR Optimum** is an open-source toolbox for estimation of the signal-to-noise ratio of magnetic
-Resonance images. Visit the [project page](https://cmr.cloudmrhub.com/apps/mroptimum/) for more information.
+resonance images. Visit the [project page](https://cmr.cloudmrhub.com/apps/mroptimum/) for more information.
 
 ## Repositories
 The code is organized in three repositories. The backend tools can be used independently from
