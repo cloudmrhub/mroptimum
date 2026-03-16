@@ -11,7 +11,7 @@ the web GUI. Visit the link below for instructions.
 
 [MR-Optimum-webgui](https://github.com/cloudmrhub/mroptimum-webgui): the user interface (frontend)
 
-[MR-Optimum-tools](https://github.com/cloudmrhub/mroptimum-tools): numerical methods (backend)
+[MR-Optimum-tools](https://github.com/cloudmrhub/mroptimum-tools): computational methods
 
 [MR-Optimum-app](https://github.com/cloudmrhub/mroptimum-app): routines for cloud execution, orchestration, and scaling
 
