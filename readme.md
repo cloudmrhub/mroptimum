@@ -7,7 +7,7 @@ resonance images. It can run calculations in the cloud or locally. Visit the [pr
 
 ## Repositories
 The code is organized in three repositories. The backend tools can be used independently from
-the web GUI. Follow these instructions to connect the web GUI to your AWS cloud account: https://github.com/cloudmrhub/mroptimum-app/blob/main/MR-Optimum-Mode2-README.md
+the web GUI. Follow [these instructions](https://github.com/cloudmrhub/mroptimum-app/blob/main/MR-Optimum-Mode2-README.md) to connect the web GUI to your AWS cloud account.
 
 [MR-Optimum-webgui](https://github.com/cloudmrhub/mroptimum-webgui): the user interface (frontend)
 
