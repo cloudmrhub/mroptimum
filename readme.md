@@ -3,11 +3,11 @@
 # MR Optimum
 
 **MR Optimum** is an open-source toolbox for estimation of the signal-to-noise ratio of magnetic
-resonance images. Visit the [project page](https://cmr.cloudmrhub.com/apps/mroptimum/) for more information.
+resonance images. It can run calculations in the cloud or locally. Visit the [project page](https://cmr.cloudmrhub.com/apps/mroptimum/) for more information.
 
 ## Repositories
 The code is organized in three repositories. The backend tools can be used independently from
-the web GUI. Visit the link below for instructions.
+the web GUI. Follow these instructions to connect the web GUI to your AWS cloud account: https://github.com/cloudmrhub/mroptimum-app/blob/main/MR-Optimum-Mode2-README.md
 
 [MR-Optimum-webgui](https://github.com/cloudmrhub/mroptimum-webgui): the user interface (frontend)
 
